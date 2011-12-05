@@ -1,0 +1,5 @@
+This is a version of Spree [http://spreecommerce.com/], the open source Rails ecommerce system, without any of the spree dependencies (gems, engine etc.).
+
+Extensions and certain generators of the spree system will be inoperable but all the code will be in one place and be completely configurable.
+
+Current version is 0.60.1
